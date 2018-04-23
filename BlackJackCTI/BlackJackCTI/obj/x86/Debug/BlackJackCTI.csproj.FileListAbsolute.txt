@@ -1,0 +1,63 @@
+C:\Users\Craig\AppData\Local\Temporary Projects\BlackJackCTI\bin\Debug\BlackJackCTI.exe
+C:\Users\Craig\AppData\Local\Temporary Projects\BlackJackCTI\bin\Debug\BlackJackCTI.pdb
+C:\Users\Craig\AppData\Local\Temporary Projects\BlackJackCTI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Craig\AppData\Local\Temporary Projects\BlackJackCTI\obj\x86\Debug\MainWindow.baml
+C:\Users\Craig\AppData\Local\Temporary Projects\BlackJackCTI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Craig\AppData\Local\Temporary Projects\BlackJackCTI\obj\x86\Debug\App.g.cs
+C:\Users\Craig\AppData\Local\Temporary Projects\BlackJackCTI\obj\x86\Debug\BlackJackCTI_MarkupCompile.cache
+C:\Users\Craig\AppData\Local\Temporary Projects\BlackJackCTI\obj\x86\Debug\BlackJackCTI.g.resources
+C:\Users\Craig\AppData\Local\Temporary Projects\BlackJackCTI\obj\x86\Debug\BlackJackCTI.Properties.Resources.resources
+C:\Users\Craig\AppData\Local\Temporary Projects\BlackJackCTI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Craig\AppData\Local\Temporary Projects\BlackJackCTI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Craig\AppData\Local\Temporary Projects\BlackJackCTI\obj\x86\Debug\BlackJackCTI.exe
+C:\Users\Craig\AppData\Local\Temporary Projects\BlackJackCTI\obj\x86\Debug\BlackJackCTI.pdb
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.exe
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.pdb
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\bin\Debug\BlackJackCTI.exe
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\bin\Debug\BlackJackCTI.pdb
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\MainWindow.baml
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\App.g.cs
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI_MarkupCompile.cache
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.g.resources
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.Properties.Resources.resources
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI_Content.g.cs
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\bin\Debug\BlackJackCTI.exe.manifest
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\bin\Debug\BlackJackCTI.application
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.exe.manifest
+C:\Users\Craig\documents\visual studio 2010\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.application
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\BlackJackCTI\BlackJackCTI\bin\Debug\BlackJackCTI.exe.manifest
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\BlackJackCTI\BlackJackCTI\bin\Debug\BlackJackCTI.application
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\BlackJackCTI\BlackJackCTI\bin\Debug\BlackJackCTI.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\BlackJackCTI\BlackJackCTI\bin\Debug\BlackJackCTI.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\MainWindow.baml
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\App.g.cs
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI_Content.g.cs
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI_MarkupCompile.cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.g.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.Properties.Resources.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.csproj.GenerateResource.Cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.exe.manifest
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.application
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\BlackJackCTI\BlackJackCTI\bin\Debug\BlackJackCTI.exe.manifest
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\BlackJackCTI\BlackJackCTI\bin\Debug\BlackJackCTI.application
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\BlackJackCTI\BlackJackCTI\bin\Debug\BlackJackCTI.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\BlackJackCTI\BlackJackCTI\bin\Debug\BlackJackCTI.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\BlackJackCTI\BlackJackCTI\obj\x86\Debug\MainWindow.baml
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\BlackJackCTI\BlackJackCTI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\BlackJackCTI\BlackJackCTI\obj\x86\Debug\App.g.cs
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI_Content.g.cs
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI_MarkupCompile.cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.g.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.Properties.Resources.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.csproj.GenerateResource.Cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.exe.manifest
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\BlackJackCTI\BlackJackCTI\obj\x86\Debug\BlackJackCTI.application
